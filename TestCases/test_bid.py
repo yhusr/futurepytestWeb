@@ -10,6 +10,7 @@ from TestData.bid_case_data import BidCase as BC
 #     return request.param
 
 
+@pytest.mark.master
 @pytest.mark.usefixtures('my_setup')
 class TestBid:
     # 正向投标用例
