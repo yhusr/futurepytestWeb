@@ -5,6 +5,9 @@ import time
 from selenium.webdriver.remote.webdriver import WebDriver
 from CommonHandle.basepage import BasePage as BP
 from PageLocaltors.homework_page_loc import HomeWorkPage as loc
+from PageObjects.classroom_page import ClassRoomPage as CR
+from TestData.classroom_case_data import ClassRoomCase as data
+
 
 class HomeWorkPage:
     def __init__(self, driver:WebDriver):
@@ -12,6 +15,7 @@ class HomeWorkPage:
 
     # 进入作业提交模块
     def homework_submit_page(self):
+        CR(self.driver).join_course_success(data.join_course_code['join_code'])
         time.sleep(2)
         BP(self.driver).click_ele(loc.first_course_name_loc, photo_screen='点击作业名称，进入作业界面')
         # 点击进入作业模块

@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="cdd7b606-cbf2-4a7a-b66d-bc8c88c03ca1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_private_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_private_letter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_pytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_pytest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/homework_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/homework_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_classroom.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_02_classroom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_03_homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_01_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_private_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_04_private_letter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,36 +19,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CommonHandle/basepage.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_02_classroom.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CommonHandle/handle_upload.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/conftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/test_classroom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="92">
               <caret line="9" column="19" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="19" />
               <folding>
                 <element signature="e#28#39#0" expanded="true" />
@@ -55,10 +31,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/test_homework.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_04_private_letter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="345">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="e#28#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_03_homework.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
               <folding>
                 <element signature="e#28#41#0" expanded="true" />
               </folding>
@@ -66,35 +54,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/test_login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-              <folding>
-                <element signature="e#28#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/test_private_letter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="e#28#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main_pytest.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#28#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,15 +97,15 @@
         <option value="$PROJECT_DIR$/TestData/homework_case_data.py" />
         <option value="$PROJECT_DIR$/PageLocaltors/homework_page_loc.py" />
         <option value="$PROJECT_DIR$/PageLocaltors/private_letter_loc.py" />
-        <option value="$PROJECT_DIR$/PageObjects/homework_page.py" />
         <option value="$PROJECT_DIR$/TestData/private_letter_case_data.py" />
         <option value="$PROJECT_DIR$/PageLocaltors/private_letter_page_loc.py" />
-        <option value="$PROJECT_DIR$/TestCases/conftest.py" />
         <option value="$PROJECT_DIR$/CommonHandle/basepage.py" />
         <option value="$PROJECT_DIR$/PageObjects/private_letter_page.py" />
         <option value="$PROJECT_DIR$/TestCases/test_homework.py" />
         <option value="$PROJECT_DIR$/TestCases/test_private_letter.py" />
         <option value="$PROJECT_DIR$/main_pytest.py" />
+        <option value="$PROJECT_DIR$/PageObjects/homework_page.py" />
+        <option value="$PROJECT_DIR$/TestCases/conftest.py" />
       </list>
     </option>
   </component>
@@ -153,27 +120,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ketangpaiweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="ketangpaiweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ketangpaiweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ketangpaiweb" type="462c0819:PsiDirectoryNode" />
-              <item name="CommonHandle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ketangpaiweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ketangpaiweb" type="462c0819:PsiDirectoryNode" />
-              <item name="Outputs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ketangpaiweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ketangpaiweb" type="462c0819:PsiDirectoryNode" />
-              <item name="PageLocaltors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ketangpaiweb" type="b2602c69:ProjectViewProjectNode" />
@@ -185,11 +138,15 @@
               <item name="ketangpaiweb" type="462c0819:PsiDirectoryNode" />
               <item name="TestCases" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ketangpaiweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketangpaiweb" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,11 +155,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\python\ketangpaiweb\CommonHandle" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\python\ketangpaiweb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\ketangpaiweb\CommonHandle" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,8 +174,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_homework.TestHomeWork">
-    <configuration name="pytest for test_classroom.TestClassRoom.test_class_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for TestCases.test_03_homework.TestHomeWork">
+    <configuration name="pytest for TestCases.test_02_classroom.TestClassRoom.test_class_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +186,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_classroom.TestClassRoom.test_class_page&quot;" />
+      <option name="_new_target" value="&quot;TestCases.test_02_classroom.TestClassRoom.test_class_page&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_homework.TestHomeWork" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for TestCases.test_03_homework.TestHomeWork" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +201,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_homework.TestHomeWork&quot;" />
+      <option name="_new_target" value="&quot;TestCases.test_03_homework.TestHomeWork&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_homework.TestHomeWork.test_homework_message" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for TestCases.test_03_homework.TestHomeWork.test_homework_message" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,11 +216,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_homework.TestHomeWork.test_homework_message&quot;" />
+      <option name="_new_target" value="&quot;TestCases.test_03_homework.TestHomeWork.test_homework_message&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_private_letter.TestPrivateLetter" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for TestCases.test_04_private_letter.TestPrivateLetter" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,11 +231,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_private_letter.TestPrivateLetter&quot;" />
+      <option name="_new_target" value="&quot;TestCases.test_04_private_letter.TestPrivateLetter&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_private_letter.TestPrivateLetter.test_sent_private" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for TestCases.test_04_private_letter.TestPrivateLetter.test_sent_private" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,17 +246,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_private_letter.TestPrivateLetter.test_sent_private&quot;" />
+      <option name="_new_target" value="&quot;TestCases.test_04_private_letter.TestPrivateLetter.test_sent_private&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_homework.TestHomeWork" />
-        <item itemvalue="Python tests.pytest for test_private_letter.TestPrivateLetter" />
-        <item itemvalue="Python tests.pytest for test_private_letter.TestPrivateLetter.test_sent_private" />
-        <item itemvalue="Python tests.pytest for test_homework.TestHomeWork.test_homework_message" />
-        <item itemvalue="Python tests.pytest for test_classroom.TestClassRoom.test_class_page" />
+        <item itemvalue="Python tests.pytest for TestCases.test_03_homework.TestHomeWork" />
+        <item itemvalue="Python tests.pytest for TestCases.test_04_private_letter.TestPrivateLetter" />
+        <item itemvalue="Python tests.pytest for TestCases.test_04_private_letter.TestPrivateLetter.test_sent_private" />
+        <item itemvalue="Python tests.pytest for TestCases.test_03_homework.TestHomeWork.test_homework_message" />
+        <item itemvalue="Python tests.pytest for TestCases.test_02_classroom.TestClassRoom.test_class_page" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580389094334</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新的作业">
+      <created>1580395146835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580395146835</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -463,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestData/classroom_case_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PageObjects/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -501,26 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjects/classroom_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-          <folding>
-            <element signature="e#28#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjects/homework_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="109" />
-          <folding>
-            <element signature="e#28#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/softWare/python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -548,16 +485,6 @@
           <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
           <folding>
             <element signature="e#28#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjects/private_letter_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="20" column="111" selection-start-line="20" selection-start-column="111" selection-end-line="20" selection-end-column="111" />
-          <folding>
-            <element signature="e#28#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -600,26 +527,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/conftest.py">
+    <entry file="file://$PROJECT_DIR$/main_pytest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="12" />
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/test_classroom.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/test_01_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="e#28#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="400">
           <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
           <folding>
             <element signature="e#28#39#0" expanded="true" />
@@ -627,19 +544,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/test_homework.py">
+    <entry file="file://$PROJECT_DIR$/PageObjects/classroom_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="253">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="19" />
           <folding>
-            <element signature="e#28#41#0" expanded="true" />
+            <element signature="e#28#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/test_private_letter.py">
+    <entry file="file://$PROJECT_DIR$/TestData/classroom_case_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="161">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_02_classroom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="e#28#39#0" expanded="true" />
@@ -647,10 +571,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_pytest.py">
+    <entry file="file://$PROJECT_DIR$/PageObjects/private_letter_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_04_private_letter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/homework_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_03_homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding>
+            <element signature="e#28#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

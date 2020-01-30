@@ -7,7 +7,6 @@ from selenium import webdriver
 from PageObjects.login_page import LoginPageTest
 from TestData.common_data import WebCommon as WM
 from PageObjects.classroom_page import ClassRoomPage as CR
-from PageObjects.classroom_page import ClassRoomPage as CP
 
 
 @pytest.fixture()
@@ -35,6 +34,6 @@ def home_fre():
     driver.maximize_window()
     LoginPageTest(driver).my_login(WM.username, WM.password)
     time.sleep(2)
-    CP(driver).info_ele_click()
+    CR(driver).info_ele_click()
     yield driver
     driver.quit()
