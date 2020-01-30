@@ -1,0 +1,20 @@
+2020-01-30 16:22:07,471 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_用户名输入_('name', 'account')元素可见成功。
+2020-01-30 16:22:07,533 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 16:22:07.381575，开始时间：2020-01-30 16:22:07.533980，总计时长：0:00:00.152405
+2020-01-30 16:22:07,565 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_用户名输入_('name', 'account')元素成功。
+2020-01-30 16:22:07,778 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_用户名输入_('name', 'account')元素中输入内容成功。
+2020-01-30 16:22:07,848 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_密码输入_('name', 'pass')元素可见成功。
+2020-01-30 16:22:07,848 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 16:22:07.778589，开始时间：2020-01-30 16:22:07.848593，总计时长：0:00:00.070004
+2020-01-30 16:22:07,868 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_密码输入_('name', 'pass')元素成功。
+2020-01-30 16:22:08,045 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_密码输入_('name', 'pass')元素中输入内容成功。
+2020-01-30 16:22:08,112 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可见成功。
+2020-01-30 16:22:08,112 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 16:22:08.045604，开始时间：2020-01-30 16:22:08.112608，总计时长：0:00:00.067004
+2020-01-30 16:22:08,182 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可点击成功。
+2020-01-30 16:22:08,183 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 16:22:08.113608，开始时间：2020-01-30 16:22:08.183612，总计时长：0:00:00.070004
+2020-01-30 16:22:08,197 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素成功。
+2020-01-30 16:22:09,946 - my_web_test - [basepage.py-->line:77] - INFO: 登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素点击成功。
+2020-01-30 16:22:12,014 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可见成功。
+2020-01-30 16:22:12,014 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 16:22:11.961996，开始时间：2020-01-30 16:22:12.014197，总计时长：0:00:00.052201
+2020-01-30 16:22:12,080 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可点击成功。
+2020-01-30 16:22:12,080 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 16:22:12.014197，开始时间：2020-01-30 16:22:12.080999，总计时长：0:00:00.066802
+2020-01-30 16:22:12,116 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素成功。
+2020-01-30 16:22:12,414 - my_web_test - [basepage.py-->line:77] - INFO: 登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素点击成功。

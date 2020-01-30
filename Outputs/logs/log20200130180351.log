@@ -1,0 +1,14 @@
+2020-01-30 18:03:57,395 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_用户名输入_('name', 'account')元素可见成功。
+2020-01-30 18:03:57,396 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 18:03:57.292842，开始时间：2020-01-30 18:03:57.396848，总计时长：0:00:00.104006
+2020-01-30 18:03:57,415 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_用户名输入_('name', 'account')元素成功。
+2020-01-30 18:03:57,632 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_用户名输入_('name', 'account')元素中输入内容成功。
+2020-01-30 18:03:57,712 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_密码输入_('name', 'pass')元素可见成功。
+2020-01-30 18:03:57,713 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 18:03:57.632861，开始时间：2020-01-30 18:03:57.713866，总计时长：0:00:00.081005
+2020-01-30 18:03:57,735 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_密码输入_('name', 'pass')元素成功。
+2020-01-30 18:03:57,898 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_密码输入_('name', 'pass')元素中输入内容成功。
+2020-01-30 18:03:57,964 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可见成功。
+2020-01-30 18:03:57,964 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 18:03:57.898877，开始时间：2020-01-30 18:03:57.964880，总计时长：0:00:00.066003
+2020-01-30 18:03:58,035 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可点击成功。
+2020-01-30 18:03:58,036 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 18:03:57.965880，开始时间：2020-01-30 18:03:58.036885，总计时长：0:00:00.071005
+2020-01-30 18:03:58,058 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素成功。
+2020-01-30 18:04:00,030 - my_web_test - [basepage.py-->line:77] - INFO: 登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素点击成功。

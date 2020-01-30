@@ -1,0 +1,121 @@
+2020-01-30 17:48:57,362 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_用户名输入_('name', 'account')元素可见成功。
+2020-01-30 17:48:57,362 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:48:57.230326，开始时间：2020-01-30 17:48:57.362333，总计时长：0:00:00.132007
+2020-01-30 17:48:57,377 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_用户名输入_('name', 'account')元素成功。
+2020-01-30 17:48:57,580 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_用户名输入_('name', 'account')元素中输入内容成功。
+2020-01-30 17:48:57,653 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_密码输入_('name', 'pass')元素可见成功。
+2020-01-30 17:48:57,653 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:48:57.580941，开始时间：2020-01-30 17:48:57.653945，总计时长：0:00:00.073004
+2020-01-30 17:48:57,671 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_密码输入_('name', 'pass')元素成功。
+2020-01-30 17:48:57,827 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_密码输入_('name', 'pass')元素中输入内容成功。
+2020-01-30 17:48:57,892 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可见成功。
+2020-01-30 17:48:57,893 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:48:57.827955，开始时间：2020-01-30 17:48:57.893958，总计时长：0:00:00.066003
+2020-01-30 17:48:57,959 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可点击成功。
+2020-01-30 17:48:57,959 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:48:57.893958，开始时间：2020-01-30 17:48:57.959962，总计时长：0:00:00.066004
+2020-01-30 17:48:57,981 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素成功。
+2020-01-30 17:48:59,731 - my_web_test - [basepage.py-->line:77] - INFO: 登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素点击成功。
+2020-01-30 17:49:01,798 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可见成功。
+2020-01-30 17:49:01,799 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:49:01.731751，开始时间：2020-01-30 17:49:01.799552，总计时长：0:00:00.067801
+2020-01-30 17:49:01,869 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可点击成功。
+2020-01-30 17:49:01,869 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:49:01.799552，开始时间：2020-01-30 17:49:01.869354，总计时长：0:00:00.069802
+2020-01-30 17:49:01,874 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素成功。
+2020-01-30 17:49:02,185 - my_web_test - [basepage.py-->line:77] - INFO: 登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素点击成功。
+2020-01-30 17:49:04,255 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击作业名称，进入作业界面_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素可见成功。
+2020-01-30 17:49:04,256 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:49:04.192064，开始时间：2020-01-30 17:49:04.256068，总计时长：0:00:00.064004
+2020-01-30 17:49:04,325 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击作业名称，进入作业界面_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素可点击成功。
+2020-01-30 17:49:04,326 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:49:04.256068，开始时间：2020-01-30 17:49:04.325869，总计时长：0:00:00.069801
+2020-01-30 17:49:04,345 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击作业名称，进入作业界面_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素成功。
+2020-01-30 17:49:04,641 - my_web_test - [basepage.py-->line:77] - INFO: 点击作业名称，进入作业界面_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素点击成功。
+2020-01-30 17:49:05,988 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击作业模块，进入作业模块界面_('xpath', '//div[@id="third-nav"]//a[contains(@href,"homework")]')元素可见成功。
+2020-01-30 17:49:05,989 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:49:04.642086，开始时间：2020-01-30 17:49:05.989163，总计时长：0:00:01.347077
+2020-01-30 17:49:06,068 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击作业模块，进入作业模块界面_('xpath', '//div[@id="third-nav"]//a[contains(@href,"homework")]')元素可点击成功。
+2020-01-30 17:49:06,068 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:49:05.989163，开始时间：2020-01-30 17:49:06.068167，总计时长：0:00:00.079004
+2020-01-30 17:49:06,085 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击作业模块，进入作业模块界面_('xpath', '//div[@id="third-nav"]//a[contains(@href,"homework")]')元素成功。
+2020-01-30 17:49:06,981 - my_web_test - [basepage.py-->line:77] - INFO: 点击作业模块，进入作业模块界面_('xpath', '//div[@id="third-nav"]//a[contains(@href,"homework")]')元素点击成功。
+2020-01-30 17:49:07,566 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击作业名称进入作业提交界面_('xpath', '//h3[@class="work-title "]//a')元素可见成功。
+2020-01-30 17:49:07,566 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:49:06.982218，开始时间：2020-01-30 17:49:07.566251，总计时长：0:00:00.584033
+2020-01-30 17:49:07,685 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击作业名称进入作业提交界面_('xpath', '//h3[@class="work-title "]//a')元素可点击成功。
+2020-01-30 17:49:07,686 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:49:07.566251，开始时间：2020-01-30 17:49:07.685257，总计时长：0:00:00.119006
+2020-01-30 17:49:07,755 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击作业名称进入作业提交界面_('xpath', '//h3[@class="work-title "]//a')元素成功。
+2020-01-30 17:49:08,552 - my_web_test - [basepage.py-->line:77] - INFO: 点击作业名称进入作业提交界面_('xpath', '//h3[@class="work-title "]//a')元素点击成功。
+2020-01-30 17:49:09,165 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击更新提交按钮_('xpath', '//a[@class="new-tj1"]')元素可见成功。
+2020-01-30 17:49:09,165 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:49:08.553305，开始时间：2020-01-30 17:49:09.165340，总计时长：0:00:00.612035
+2020-01-30 17:49:09,236 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击更新提交按钮_('xpath', '//a[@class="new-tj1"]')元素可点击成功。
+2020-01-30 17:49:09,237 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:49:09.166341，开始时间：2020-01-30 17:49:09.237345，总计时长：0:00:00.071004
+2020-01-30 17:49:09,259 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击更新提交按钮_('xpath', '//a[@class="new-tj1"]')元素成功。
+2020-01-30 17:49:09,551 - my_web_test - [basepage.py-->line:77] - INFO: 点击更新提交按钮_('xpath', '//a[@class="new-tj1"]')元素点击成功。
+2020-01-30 17:49:11,595 - my_web_test - [basepage.py-->line:32] - INFO: 等待确定更新按钮_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素可见成功。
+2020-01-30 17:49:11,595 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:49:11.551462，开始时间：2020-01-30 17:49:11.595064，总计时长：0:00:00.043602
+2020-01-30 17:49:11,679 - my_web_test - [basepage.py-->line:47] - INFO: 等待确定更新按钮_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素可点击成功。
+2020-01-30 17:49:11,679 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:49:11.595064，开始时间：2020-01-30 17:49:11.679267，总计时长：0:00:00.084203
+2020-01-30 17:49:11,694 - my_web_test - [basepage.py-->line:61] - INFO: 查找确定更新按钮_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素成功。
+2020-01-30 17:49:11,954 - my_web_test - [basepage.py-->line:77] - INFO: 确定更新按钮_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素点击成功。
+2020-01-30 17:49:14,029 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击上传文件按钮_('xpath', '//div[@class="shangchuan"]//input')元素可见成功。
+2020-01-30 17:49:14,029 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:49:13.965565，开始时间：2020-01-30 17:49:14.029569，总计时长：0:00:00.064004
+2020-01-30 17:49:14,049 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击上传文件按钮_('xpath', '//div[@class="shangchuan"]//input')元素成功。
+2020-01-30 17:49:14,124 - my_web_test - [basepage.py-->line:91] - INFO: 点击上传文件按钮_('xpath', '//div[@class="shangchuan"]//input')元素中输入内容成功。
+2020-01-30 17:49:29,616 - my_web_test - [basepage.py-->line:27] - ERROR: 等待上传作业后更新提交_('xpath', '//a[@class="new-tj1"]')元素失败
+Traceback (most recent call last):
+  File "F:\python\ketangpaiweb\CommonHandle\basepage.py", line 25, in ele_wait
+    ww(self.driver, timeout, poll_frequency=frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 241, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 
+Message: unexpected alert open
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-30 17:49:29,652 - my_web_test - [basepage.py-->line:158] - ERROR: 图片上传作业后更新提交_20200130174929.png存放失败
+Traceback (most recent call last):
+  File "F:\python\ketangpaiweb\CommonHandle\basepage.py", line 25, in ele_wait
+    ww(self.driver, timeout, poll_frequency=frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 241, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 
+Message: unexpected alert open
+  (Session info: chrome=79.0.3945.130)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\python\ketangpaiweb\CommonHandle\basepage.py", line 156, in _sreen_shots_filename
+    self.driver.save_screenshot(file_path)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 241, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-30 17:49:30,146 - my_web_test - [basepage.py-->line:163] - INFO: 图片上传作业后更新提交_20200130174929.png存放成功
