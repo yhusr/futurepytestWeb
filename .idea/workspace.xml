@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd113bb-4051-43cc-be35-aab600e401b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_bid.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_bid.py" afterDir="false" />
+    <list default="true" id="cdd7b606-cbf2-4a7a-b66d-bc8c88c03ca1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ketangpaiweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommonHandle/handle_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageLocaltors/classroom_page_loc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageLocaltors/homework_page_loc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageLocaltors/private_letter_page_loc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/homework_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/private_letter_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/test_homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/test_private_letter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/homework_case_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/private_letter_case_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ketangpaicase.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/futureWeb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonHandle/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/CommonHandle/basepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125171329.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125172140.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125172748.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125180326.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125183202.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125183353.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125192816.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125213650.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125213754.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125222236.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125223418.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/reports/allure.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/reports/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/reports/testrun.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/screenshots/投标详情页_点击投标按钮_20200125172947.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outputs/screenshots/投标详情页_用户投标金额_20200125172435.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageLocaltors/bid_page_loc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageLocaltors/home_page_loc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageLocaltors/login_page_loc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageLocaltors/login_page_loc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageLocaltors/user_page_loc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/bid_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/classroom_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/user_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_bid.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_classroom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/bid_case_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/classroom_case_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/common_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/common_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/login_case_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/login_case_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/82afb919cc270aa8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b5a04c42a42f5c77.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d4ffccaf11648993.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ff1561ea3f1f0cd5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_pytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_pytest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +101,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestCases/test_bid.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="69">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/conftest.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_homework.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="184">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding>
                 <element signature="e#28#41#0" expanded="true" />
               </folding>
@@ -36,10 +123,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/test_login.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_private_letter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="184">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#28#39#0" expanded="true" />
               </folding>
@@ -47,11 +134,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_pytest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            <state relative-caret-position="207">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -65,53 +152,46 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>F:\python\futureWeb</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PageObjects/homepage.py" />
-        <option value="$PROJECT_DIR$/PageObjects/loginPage.py" />
-        <option value="$PROJECT_DIR$/PageLocaltors/login_page_loc.py" />
-        <option value="$PROJECT_DIR$/PageObjects/login_page_obj.py" />
-        <option value="$PROJECT_DIR$/PageLocaltors/common.py" />
         <option value="$PROJECT_DIR$/TestData/login_case_data.py" />
-        <option value="$PROJECT_DIR$/TestCases/testLogin.py" />
-        <option value="$PROJECT_DIR$/CommonHandle/web_wait.py" />
+        <option value="$PROJECT_DIR$/PageLocaltors/login_page_loc.py" />
         <option value="$PROJECT_DIR$/PageLocaltors/home_page_loc.py" />
-        <option value="$PROJECT_DIR$/PageLocaltors/user_page_loc.py" />
-        <option value="$PROJECT_DIR$/TestData/common.py" />
-        <option value="$PROJECT_DIR$/CommonHandle/handle_os.py" />
-        <option value="$PROJECT_DIR$/CommonHandle/handle_log.py" />
+        <option value="$PROJECT_DIR$/PageLocaltors/classroom_page.py" />
         <option value="$PROJECT_DIR$/PageObjects/home_page.py" />
-        <option value="$PROJECT_DIR$/PageObjects/user_page.py" />
         <option value="$PROJECT_DIR$/PageObjects/login_page.py" />
-        <option value="$PROJECT_DIR$/PageLocaltors/bid_page_loc.py" />
-        <option value="$PROJECT_DIR$/PageObjects/bid_page.py" />
-        <option value="$PROJECT_DIR$/CommonHandle/basepage.py" />
-        <option value="$PROJECT_DIR$/TestData/bid_case_data.py" />
-        <option value="$PROJECT_DIR$/TestCases/conftest.py" />
-        <option value="$PROJECT_DIR$/pytest.ini.py" />
-        <option value="$PROJECT_DIR$/pytest.ini" />
-        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/TestData/common_data.py" />
         <option value="$PROJECT_DIR$/TestCases/test_login.py" />
-        <option value="$PROJECT_DIR$/TestCases/test_bid.py" />
+        <option value="$PROJECT_DIR$/TestData/classroom_case_data.py" />
+        <option value="$PROJECT_DIR$/PageLocaltors/classroom_page_loc.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_classroom.py" />
+        <option value="$PROJECT_DIR$/CommonHandle/handle_upload.py" />
+        <option value="$PROJECT_DIR$/PageObjects/classroom_page.py" />
+        <option value="$PROJECT_DIR$/TestData/homework_case_data.py" />
+        <option value="$PROJECT_DIR$/PageLocaltors/homework_page_loc.py" />
+        <option value="$PROJECT_DIR$/PageLocaltors/private_letter_loc.py" />
+        <option value="$PROJECT_DIR$/PageObjects/homework_page.py" />
+        <option value="$PROJECT_DIR$/TestData/private_letter_case_data.py" />
+        <option value="$PROJECT_DIR$/PageLocaltors/private_letter_page_loc.py" />
+        <option value="$PROJECT_DIR$/TestCases/conftest.py" />
+        <option value="$PROJECT_DIR$/CommonHandle/basepage.py" />
+        <option value="$PROJECT_DIR$/PageObjects/private_letter_page.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_homework.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_private_letter.py" />
+        <option value="$PROJECT_DIR$/main_pytest.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="528" />
-    <option name="y" value="31" />
-    <option name="width" value="683" />
+    <option name="x" value="427" />
+    <option name="y" value="11" />
+    <option name="width" value="844" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -122,12 +202,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="futurepytestWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="futurepytestWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ketangpaiweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketangpaiweb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="futurepytestWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="futurepytestWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ketangpaiweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketangpaiweb" type="462c0819:PsiDirectoryNode" />
               <item name="TestCases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -138,11 +218,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CommonHandle" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\ketangpaiweb\CommonHandle" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\python\futureWeb\TestData" />
+      <recent name="F:\python\ketangpaiweb" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -157,30 +241,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="futureWeb" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\python\futurepytestWeb\main_pytest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_bid.TestBid" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="futureWeb" />
+  <component name="RunManager" selected="Python tests.pytest for test_homework.TestHomeWork">
+    <configuration name="pytest for test_classroom.TestClassRoom.test_class_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -190,12 +253,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bid.TestBid&quot;" />
+      <option name="_new_target" value="&quot;test_classroom.TestClassRoom.test_class_page&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_bid.TestBid.test_bid_page_fail" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="futureWeb" />
+    <configuration name="pytest for test_homework.TestHomeWork" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -205,12 +268,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bid.TestBid.test_bid_page_fail&quot;" />
+      <option name="_new_target" value="&quot;test_homework.TestHomeWork&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_login.TestLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="futureWeb" />
+    <configuration name="pytest for test_homework.TestHomeWork.test_homework_message" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -220,12 +283,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login.TestLogin&quot;" />
+      <option name="_new_target" value="&quot;test_homework.TestHomeWork.test_homework_message&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="futureWeb" />
+    <configuration name="pytest for test_private_letter.TestPrivateLetter" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ketangpaiweb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -235,17 +298,32 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/test_login.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_private_letter.TestPrivateLetter&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_private_letter.TestPrivateLetter.test_sent_private" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ketangpaiweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_private_letter.TestPrivateLetter.test_sent_private&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python tests.pytest for test_login.TestLogin" />
-        <item itemvalue="Python tests.pytest for test_bid.TestBid" />
-        <item itemvalue="Python tests.pytest for test_bid.TestBid.test_bid_page_fail" />
-        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python tests.pytest for test_homework.TestHomeWork" />
+        <item itemvalue="Python tests.pytest for test_private_letter.TestPrivateLetter" />
+        <item itemvalue="Python tests.pytest for test_private_letter.TestPrivateLetter.test_sent_private" />
+        <item itemvalue="Python tests.pytest for test_homework.TestHomeWork.test_homework_message" />
+        <item itemvalue="Python tests.pytest for test_classroom.TestClassRoom.test_class_page" />
       </list>
     </recent_temporary>
   </component>
@@ -254,63 +332,63 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5bd113bb-4051-43cc-be35-aab600e401b0" name="Default Changelist" comment="" />
-      <created>1578833955948</created>
+      <changelist id="cdd7b606-cbf2-4a7a-b66d-bc8c88c03ca1" name="Default Changelist" comment="" />
+      <created>1580266792374</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578833955948</updated>
+      <updated>1580266792374</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_bid_TestBid_test_bid_page_fail - 2020.01.25 at 16h 53m 28s.xml">
-      <configuration name="pytest for test_bid.TestBid.test_bid_page_fail" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter - 2020.01.30 at 20h 19m 11s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_bid_TestBid_test_bid_page_fail - 2020.01.25 at 16h 57m 40s.xml">
-      <configuration name="pytest for test_bid.TestBid.test_bid_page_fail" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter - 2020.01.30 at 20h 23m 09s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_bid_TestBid_test_bid_page_fail - 2020.01.25 at 17h 09m 50s.xml">
-      <configuration name="pytest for test_bid.TestBid.test_bid_page_fail" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter - 2020.01.30 at 20h 25m 45s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_bid_TestBid_test_bid_page_fail - 2020.01.25 at 17h 16m 34s.xml">
-      <configuration name="pytest for test_bid.TestBid.test_bid_page_fail" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter - 2020.01.30 at 20h 27m 06s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_bid_TestBid_test_bid_page_fail - 2020.01.25 at 17h 24m 44s.xml">
-      <configuration name="pytest for test_bid.TestBid.test_bid_page_fail" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter - 2020.01.30 at 20h 32m 49s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_bid_TestBid_test_bid_page_fail - 2020.01.25 at 17h 31m 05s.xml">
-      <configuration name="pytest for test_bid.TestBid.test_bid_page_fail" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter_test_sent_private - 2020.01.30 at 20h 38m 01s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter.test_sent_private" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_bid_TestBid - 2020.01.25 at 18h 11m 55s.xml">
-      <configuration name="pytest for test_bid.TestBid" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter - 2020.01.30 at 20h 39m 49s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_login_TestLogin - 2020.01.25 at 18h 33m 02s.xml">
-      <configuration name="pytest for test_login.TestLogin" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter - 2020.01.30 at 20h 40m 56s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_login_TestLogin - 2020.01.25 at 18h 35m 02s.xml">
-      <configuration name="pytest for test_login.TestLogin" configurationId="tests" />
+    <history-entry file="pytest_for_test_private_letter_TestPrivateLetter - 2020.01.30 at 20h 47m 24s.xml">
+      <configuration name="pytest for test_private_letter.TestPrivateLetter" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_login_TestLogin - 2020.01.25 at 19h 29m 25s.xml">
-      <configuration name="pytest for test_login.TestLogin" configurationId="tests" />
+    <history-entry file="pytest_for_test_homework_TestHomeWork - 2020.01.30 at 20h 48m 53s.xml">
+      <configuration name="pytest for test_homework.TestHomeWork" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2470238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21502976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18954249" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.78723407" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43207857" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,141 +396,89 @@
     </layout>
   </component>
   <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://D:/softWare/python/Lib/site-packages/selenium/webdriver/__init__.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="tests">
-        <watch expression="@py_assert4" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>assert my_setup[1].invest_fail_info()</expression-string>
+        <expression-string>BP(self.driver).switch_handle(photo_screen=&quot;sss&quot;)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>my_params['invest_data']</expression-string>
+        <expression-string>BP(self.driver).get_window_handles(photo_screen='ss')[-1]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>WM.password</expression-string>
+        <expression-string>get_window_handles(photo_screen)[-1]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>WM.username</expression-string>
+        <expression-string>self.driver.get_window_handles(photo_screen)[-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BasePage(self.driver).get_window_handles(photo_screen)[-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.get_window_handles(photo_screen)[-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BP(self.driver).switch_handle(photo_screen='sowshi')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BP(self.driver).switch_handle()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BP(self.driver).switch_handle(photo_screen='sss')</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/softWare/python/Lib/ntpath.py">
+    <entry file="file://$PROJECT_DIR$/PageLocaltors/user_page_loc.py" />
+    <entry file="file://$PROJECT_DIR$/PageLocaltors/classroom_page.py" />
+    <entry file="file://$PROJECT_DIR$/PageObjects/bid_page.py" />
+    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/登录成功后_输入加课码后点击确定_20200129190927.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonHandle/handle_upload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        <state relative-caret-position="930">
+          <caret line="57" column="32" lean-forward="true" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageLocaltors/home_page_loc.py">
+    <entry file="file://$PROJECT_DIR$/TestData/common_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        <state relative-caret-position="345">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageLocaltors/user_page_loc.py">
+    <entry file="file://$PROJECT_DIR$/TestData/classroom_case_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="161">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommonHandle/handle_os.py">
+    <entry file="file://$PROJECT_DIR$/PageObjects/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="21" column="76" lean-forward="true" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
-          <folding>
-            <element signature="e#28#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/百度首页_搜索栏_20200124110020.png" />
-    <entry file="file://$PROJECT_DIR$/Outputs/logs/log20200124105956.log" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-769778684/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="172" column="4" selection-start-line="172" selection-start-column="4" selection-end-line="172" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommonHandle/handle_log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#28#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommonHandle/web_wait.py" />
-    <entry file="file://$PROJECT_DIR$/Outputs/logs/log20200124185737.log" />
-    <entry file="file://$PROJECT_DIR$/PageObjects/user_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="e#28#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/登录成功后_点击页面第一个抢投标_20200124190523.png" />
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/登录页面_用户名或者密码输入错误后提示内容_20200124191445.png" />
-    <entry file="file://D:/softWare/python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="615" column="8" selection-start-line="615" selection-start-column="8" selection-end-line="615" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/投标页面_用户名属性值_20200124192016.png" />
-    <entry file="file://D:/softWare/python/Lib/datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="1642" column="18" selection-start-line="1642" selection-start-column="9" selection-end-line="1642" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/投标详情页_点击投标按钮_20200125135736.png" />
-    <entry file="file://D:/softWare/python/Lib/site-packages/selenium/webdriver/support/wait.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1288">
-          <caret line="76" column="33" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjects/home_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="23">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#28#85#0" expanded="true" />
           </folding>
@@ -461,157 +487,168 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PageLocaltors/login_page_loc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        <state relative-caret-position="322">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjects/login_page.py">
+    <entry file="file://$PROJECT_DIR$/PageLocaltors/classroom_page_loc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="24" column="98" selection-start-line="24" selection-start-column="98" selection-end-line="24" selection-end-column="98" />
-          <folding>
-            <element signature="e#28#85#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="138">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="22" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/投标详情页_投资失败的提示内容_20200125140325.png" />
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/登录成功后_点击页面第一个抢投标_20200125141458.png" />
-    <entry file="file://$PROJECT_DIR$/TestData/common_data.py">
+    <entry file="file://$PROJECT_DIR$/PageLocaltors/homework_page_loc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softWare/python/Lib/site-packages/_pytest/fixtures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3439">
-          <caret line="1073" column="7" lean-forward="true" selection-start-line="1073" selection-start-column="7" selection-end-line="1073" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageLocaltors/bid_page_loc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/_pytest/mark/structures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-610">
-          <caret line="45" column="53" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softWare/python/Lib/site-packages/selenium/webdriver/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#788#847#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softWare/python/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/投标详情页_用户投标金额_20200125165304.png" />
-    <entry file="file://$PROJECT_DIR$/Outputs/screenshots/投标详情页_点击投标按钮_20200125164425.png" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-769778684/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="258" column="4" selection-start-line="258" selection-start-column="4" selection-end-line="258" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softWare/python/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="122" column="8" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommonHandle/basepage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="67" column="46" lean-forward="true" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
-          <folding>
-            <element signature="e#28#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjects/bid_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#28#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestData/bid_case_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestData/login_case_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest.ini.py" />
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#28#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_pytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        <state relative-caret-position="561">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCases/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="506">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
           <folding>
             <element signature="e#28#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/test_bid.py">
+    <entry file="file://$PROJECT_DIR$/PageObjects/classroom_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/homework_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="109" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="12" />
+          <folding>
+            <element signature="e#28#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/softWare/python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="751" column="8" selection-start-line="751" selection-start-column="8" selection-end-line="751" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/softWare/python/Lib/site-packages/selenium/webdriver/remote/switch_to.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonHandle/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestData/private_letter_case_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLocaltors/private_letter_page_loc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+          <folding>
+            <element signature="e#28#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/private_letter_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="20" column="111" selection-start-line="20" selection-start-column="111" selection-end-line="20" selection-end-column="111" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestData/login_case_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestData/homework_case_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_classroom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#28#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_private_letter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#28#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_pytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>

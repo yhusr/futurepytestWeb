@@ -5,6 +5,7 @@ from selenium.webdriver.remote.webdriver import WebDriver
 from PageLocaltors.login_page_loc import LoginPageLoc as loc
 from CommonHandle.basepage import BasePage as BP
 
+
 # 登录页面的元素操作
 class LoginPageTest:
 
@@ -26,6 +27,6 @@ class LoginPageTest:
         # 点击登录按钮进入页面
         BP(self.driver).click_ele(loc.login_button_loc, photo_screen='登录页面输入完成_点击登录按钮')
 
-    # 输入错误的提示
+    # 登录错误的文本显示
     def login_error_text(self):
-        return BP(self.driver).get_text(loc.login_error_loc, photo_screen='登录页面_用户名或者密码输入错误后提示内容')
+        return BP(self.driver).get_text(loc.error_login_text_loc, photo_screen='登录失败后，页面文本显示')

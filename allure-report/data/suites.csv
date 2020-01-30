@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Jan 25 22:34:18 CST 2020","Sat Jan 25 22:34:28 CST 2020","10607","","pytest","","TestCases.test_login.TestLogin","","test_login_0_error[my_data2]",""
-"passed","Sat Jan 25 22:34:18 CST 2020","Sat Jan 25 22:34:49 CST 2020","30918","","pytest","","TestCases.test_login.TestLogin","","test_login_1_success",""
-"passed","Sat Jan 25 22:34:18 CST 2020","Sat Jan 25 22:34:29 CST 2020","11033","","pytest","","TestCases.test_login.TestLogin","","test_login_0_error[my_data1]",""
-"passed","Sat Jan 25 22:34:18 CST 2020","Sat Jan 25 22:34:28 CST 2020","10362","","pytest","","TestCases.test_login.TestLogin","","test_login_0_error[my_data0]",""

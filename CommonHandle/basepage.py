@@ -136,7 +136,8 @@ class BasePage:
     # 获取最新window句柄
     def switch_handle(self, photo_screen):
         try:
-            self.get_window_handles(photo_screen)[-1]
+            new_handle = self.get_window_handles(photo_screen)[-1]
+            self.driver.switch_to.window(new_handle)
         except:
             logger.exception(f'在{photo_screen}页面中切换到最新handle失败')
             # photoscreen命名格式：页面名称_行为名称_年时分秒.png
