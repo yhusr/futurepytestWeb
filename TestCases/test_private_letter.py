@@ -7,6 +7,7 @@ from TestData.private_letter_case_data import PrivateLetterData as PD
 from PageObjects.private_letter_page import PrivateLetter as PL
 
 
+@pytest.mark.master
 @pytest.mark.mytest
 @pytest.mark.usefixtures('home_fre')
 class TestPrivateLetter:

@@ -6,6 +6,7 @@ from PageObjects.homework_page import HomeWorkPage
 from TestData.homework_case_data import HomeWorkCase
 
 
+@pytest.mark.master
 @pytest.mark.mytest
 @pytest.mark.usefixtures('home_fre')
 class TestHomeWork:
