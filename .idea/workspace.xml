@@ -1,98 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdd7b606-cbf2-4a7a-b66d-bc8c88c03ca1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ketangpaiweb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonHandle/handle_upload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageLocaltors/classroom_page_loc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageLocaltors/homework_page_loc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageLocaltors/private_letter_page_loc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/homework_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/private_letter_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_private_letter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/homework_case_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/private_letter_case_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ketangpaicase.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/futureWeb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommonHandle/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/CommonHandle/basepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125171329.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125172140.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125172748.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125180326.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125183202.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125183353.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125192816.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125213650.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125213754.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125222236.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/logs/log20200125223418.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/reports/allure.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/reports/executor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/reports/testrun.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/screenshots/投标详情页_点击投标按钮_20200125172947.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outputs/screenshots/投标详情页_用户投标金额_20200125172435.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageLocaltors/bid_page_loc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageLocaltors/home_page_loc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageLocaltors/login_page_loc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageLocaltors/login_page_loc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageLocaltors/user_page_loc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObjects/bid_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObjects/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/classroom_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObjects/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObjects/user_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_bid.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_classroom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/bid_case_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/classroom_case_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/common_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/common_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/login_case_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/login_case_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/82afb919cc270aa8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b5a04c42a42f5c77.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d4ffccaf11648993.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ff1561ea3f1f0cd5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_pytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_pytest.py" afterDir="false" />
-    </list>
+    <list default="true" id="cdd7b606-cbf2-4a7a-b66d-bc8c88c03ca1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,44 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/test_homework.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-              <folding>
-                <element signature="e#28#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/test_private_letter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#28#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_pytest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -338,6 +214,14 @@
       <option name="presentableId" value="Default" />
       <updated>1580266792374</updated>
     </task>
+    <task id="LOCAL-00001" summary="新的作业">
+      <created>1580388765964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580388765964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -374,9 +258,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21502976" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21502976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -386,10 +269,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -397,6 +280,10 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新的作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="新的作业" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -648,7 +535,7 @@
     <entry file="file://$PROJECT_DIR$/main_pytest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
