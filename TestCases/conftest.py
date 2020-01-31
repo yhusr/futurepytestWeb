@@ -28,7 +28,7 @@ def my_setup(set_up):
 
 
 @pytest.fixture()
-def home_fre():
+def letter():
     driver = webdriver.Chrome()
     driver.get(WM.login_url)
     driver.maximize_window()

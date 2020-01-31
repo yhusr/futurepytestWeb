@@ -2,8 +2,27 @@
 Time:2020/1/30 0030
 """
 import pytest
+import time
+from selenium import webdriver
+from PageObjects.login_page import LoginPageTest
+from TestData.common_data import WebCommon as WM
+from PageObjects.classroom_page import ClassRoomPage as CR
 from PageObjects.homework_page import HomeWorkPage
 from TestData.homework_case_data import HomeWorkCase
+
+
+@pytest.fixture()
+def home_fre():
+    driver = webdriver.Chrome()
+    driver.get(WM.login_url)
+    driver.maximize_window()
+    LoginPageTest(driver).my_login(WM.username, WM.password)
+    time.sleep(2)
+    CR(driver).info_ele_click()
+    yield driver
+    driver.execute_script('window.location.href="'+WM.index_url+'"')
+    CR(driver).drop_course(password=WM.password)
+    driver.quit()
 
 
 @pytest.mark.master

@@ -9,7 +9,7 @@ from PageObjects.private_letter_page import PrivateLetter as PL
 
 @pytest.mark.master
 @pytest.mark.mytest
-@pytest.mark.usefixtures('home_fre')
+@pytest.mark.usefixtures('letter')
 class TestPrivateLetter:
     # 进入私信并发送内容
     def test_sent_private(self, home_fre):
