@@ -10,7 +10,7 @@ from TestData.login_case_data import LoginData
 from PageObjects.login_page import LoginPageTest
 
 
-@pytest.mark.master
+@pytest.mark.mytest
 @pytest.mark.usefixtures('set_up')
 class TestLogin:
 
