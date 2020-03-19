@@ -1,69 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="GOS-01909081225" name="pytest" skipped="0" tests="4" time="63.070" timestamp="2020-01-25T22:34:18.225914"><testcase classname="TestCases.test_login.TestLogin" file="TestCases\test_login.py" line="17" name="test_login_1_success" time="30.918"><system-err>2020-01-25 22:34:23,850 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素可见成功。
-2020-01-25 22:34:23,851 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:34:23.739228，开始时间：2020-01-25 22:34:23.851235，总计时长：0:00:00.112007
-2020-01-25 22:34:23,877 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素成功。
-2020-01-25 22:34:24,493 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素中输入内容成功。
-2020-01-25 22:34:24,638 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素可见成功。
-2020-01-25 22:34:24,638 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:34:24.494272，开始时间：2020-01-25 22:34:24.638280，总计时长：0:00:00.144008
-2020-01-25 22:34:24,655 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素成功。
-2020-01-25 22:34:24,861 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素中输入内容成功。
-2020-01-25 22:34:24,954 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可见成功。
-2020-01-25 22:34:24,954 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:34:24.861293，开始时间：2020-01-25 22:34:24.954298，总计时长：0:00:00.093005
-2020-01-25 22:34:25,045 - my_web_test - [basepage.py--&gt;line:47] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可点击成功。
-2020-01-25 22:34:25,045 - my_web_test - [basepage.py--&gt;line:49] - INFO: 起始时间：2020-01-25 22:34:24.954298，开始时间：2020-01-25 22:34:25.045303，总计时长：0:00:00.091005
-2020-01-25 22:34:25,080 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素成功。
-2020-01-25 22:34:25,233 - my_web_test - [basepage.py--&gt;line:77] - INFO: 登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素点击成功。
-</system-err></testcase><testcase classname="TestCases.test_login.TestLogin" file="TestCases\test_login.py" line="25" name="test_login_0_error[my_data0]" time="10.362"><system-err>2020-01-25 22:34:54,592 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素可见成功。
-2020-01-25 22:34:54,593 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:34:54.497988，开始时间：2020-01-25 22:34:54.593993，总计时长：0:00:00.096005
-2020-01-25 22:34:54,614 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素成功。
-2020-01-25 22:34:54,727 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素中输入内容成功。
-2020-01-25 22:34:54,837 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素可见成功。
-2020-01-25 22:34:54,838 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:34:54.727001，开始时间：2020-01-25 22:34:54.838007，总计时长：0:00:00.111006
-2020-01-25 22:34:54,865 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素成功。
-2020-01-25 22:34:55,101 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素中输入内容成功。
-2020-01-25 22:34:55,186 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可见成功。
-2020-01-25 22:34:55,187 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:34:55.102022，开始时间：2020-01-25 22:34:55.187027，总计时长：0:00:00.085005
-2020-01-25 22:34:55,252 - my_web_test - [basepage.py--&gt;line:47] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可点击成功。
-2020-01-25 22:34:55,253 - my_web_test - [basepage.py--&gt;line:49] - INFO: 起始时间：2020-01-25 22:34:55.187027，开始时间：2020-01-25 22:34:55.253031，总计时长：0:00:00.066004
-2020-01-25 22:34:55,270 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素成功。
-2020-01-25 22:34:55,406 - my_web_test - [basepage.py--&gt;line:77] - INFO: 登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素点击成功。
-2020-01-25 22:34:57,466 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素可见成功。
-2020-01-25 22:34:57,466 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:34:57.417155，开始时间：2020-01-25 22:34:57.466157，总计时长：0:00:00.049002
-2020-01-25 22:34:57,487 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素成功。
-2020-01-25 22:34:57,520 - my_web_test - [basepage.py--&gt;line:105] - INFO: 登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素中获取文本内容_请输入手机号_成功。
-</system-err></testcase><testcase classname="TestCases.test_login.TestLogin" file="TestCases\test_login.py" line="25" name="test_login_0_error[my_data1]" time="11.033"><system-err>2020-01-25 22:35:05,574 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素可见成功。
-2020-01-25 22:35:05,574 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:35:05.484616，开始时间：2020-01-25 22:35:05.574621，总计时长：0:00:00.090005
-2020-01-25 22:35:05,595 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素成功。
-2020-01-25 22:35:05,863 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素中输入内容成功。
-2020-01-25 22:35:05,957 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素可见成功。
-2020-01-25 22:35:05,958 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:35:05.864638，开始时间：2020-01-25 22:35:05.957643，总计时长：0:00:00.093005
-2020-01-25 22:35:05,977 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素成功。
-2020-01-25 22:35:06,110 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素中输入内容成功。
-2020-01-25 22:35:06,205 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可见成功。
-2020-01-25 22:35:06,206 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:35:06.110652，开始时间：2020-01-25 22:35:06.205657，总计时长：0:00:00.095005
-2020-01-25 22:35:06,280 - my_web_test - [basepage.py--&gt;line:47] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可点击成功。
-2020-01-25 22:35:06,281 - my_web_test - [basepage.py--&gt;line:49] - INFO: 起始时间：2020-01-25 22:35:06.206657，开始时间：2020-01-25 22:35:06.281662，总计时长：0:00:00.075005
-2020-01-25 22:35:06,301 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素成功。
-2020-01-25 22:35:06,429 - my_web_test - [basepage.py--&gt;line:77] - INFO: 登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素点击成功。
-2020-01-25 22:35:08,501 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素可见成功。
-2020-01-25 22:35:08,502 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:35:08.441785，开始时间：2020-01-25 22:35:08.502789，总计时长：0:00:00.061004
-2020-01-25 22:35:08,527 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素成功。
-2020-01-25 22:35:08,564 - my_web_test - [basepage.py--&gt;line:105] - INFO: 登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素中获取文本内容_请输入密码_成功。
-</system-err></testcase><testcase classname="TestCases.test_login.TestLogin" file="TestCases\test_login.py" line="25" name="test_login_0_error[my_data2]" time="10.607"><system-err>2020-01-25 22:35:16,271 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素可见成功。
-2020-01-25 22:35:16,272 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:35:16.176228，开始时间：2020-01-25 22:35:16.272233，总计时长：0:00:00.096005
-2020-01-25 22:35:16,296 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素成功。
-2020-01-25 22:35:16,410 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素中输入内容成功。
-2020-01-25 22:35:16,491 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素可见成功。
-2020-01-25 22:35:16,492 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:35:16.410241，开始时间：2020-01-25 22:35:16.492246，总计时长：0:00:00.082005
-2020-01-25 22:35:16,512 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素成功。
-2020-01-25 22:35:16,629 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素中输入内容成功。
-2020-01-25 22:35:16,710 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可见成功。
-2020-01-25 22:35:16,710 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:35:16.629254，开始时间：2020-01-25 22:35:16.710258，总计时长：0:00:00.081004
-2020-01-25 22:35:16,798 - my_web_test - [basepage.py--&gt;line:47] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可点击成功。
-2020-01-25 22:35:16,799 - my_web_test - [basepage.py--&gt;line:49] - INFO: 起始时间：2020-01-25 22:35:16.711258，开始时间：2020-01-25 22:35:16.799263，总计时长：0:00:00.088005
-2020-01-25 22:35:16,820 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素成功。
-2020-01-25 22:35:16,970 - my_web_test - [basepage.py--&gt;line:77] - INFO: 登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素点击成功。
-2020-01-25 22:35:19,082 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素可见成功。
-2020-01-25 22:35:19,083 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-01-25 22:35:19.002389，开始时间：2020-01-25 22:35:19.083394，总计时长：0:00:00.081005
-2020-01-25 22:35:19,111 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素成功。
-2020-01-25 22:35:19,172 - my_web_test - [basepage.py--&gt;line:105] - INFO: 登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素中获取文本内容_请输入手机号_成功。
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="DESKTOP-1P6J1IS" name="pytest" skipped="0" tests="4" time="59.072" timestamp="2020-03-19T11:25:19.120831"><testcase classname="TestCases.test_login.TestLogin" file="TestCases\test_login.py" line="17" name="test_login_1_success" time="29.660"><system-err>2020-03-19 11:25:24,367 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素可见成功。
+2020-03-19 11:25:24,371 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:25:24.344484，开始时间：2020-03-19 11:25:24.371003，总计时长：0:00:00.026519
+2020-03-19 11:25:24,377 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素成功。
+2020-03-19 11:25:24,442 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素中输入内容成功。
+2020-03-19 11:25:24,464 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素可见成功。
+2020-03-19 11:25:24,469 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:25:24.442553，开始时间：2020-03-19 11:25:24.468570，总计时长：0:00:00.026017
+2020-03-19 11:25:24,477 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素成功。
+2020-03-19 11:25:24,524 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素中输入内容成功。
+2020-03-19 11:25:24,545 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可见成功。
+2020-03-19 11:25:24,545 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:25:24.524611，开始时间：2020-03-19 11:25:24.545124，总计时长：0:00:00.020513
+2020-03-19 11:25:24,569 - my_web_test - [basepage.py--&gt;line:47] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可点击成功。
+2020-03-19 11:25:24,569 - my_web_test - [basepage.py--&gt;line:49] - INFO: 起始时间：2020-03-19 11:25:24.545124，开始时间：2020-03-19 11:25:24.569641，总计时长：0:00:00.024517
+2020-03-19 11:25:24,575 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素成功。
+2020-03-19 11:25:24,634 - my_web_test - [basepage.py--&gt;line:77] - INFO: 登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素点击成功。
+</system-err></testcase><testcase classname="TestCases.test_login.TestLogin" file="TestCases\test_login.py" line="25" name="test_login_0_error[my_data0]" time="9.886"><system-err>2020-03-19 11:25:54,263 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素可见成功。
+2020-03-19 11:25:54,264 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:25:54.200114，开始时间：2020-03-19 11:25:54.264149，总计时长：0:00:00.064035
+2020-03-19 11:25:54,278 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素成功。
+2020-03-19 11:25:54,347 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素中输入内容成功。
+2020-03-19 11:25:54,378 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素可见成功。
+2020-03-19 11:25:54,378 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:25:54.347706，开始时间：2020-03-19 11:25:54.378728，总计时长：0:00:00.031022
+2020-03-19 11:25:54,384 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素成功。
+2020-03-19 11:25:54,431 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素中输入内容成功。
+2020-03-19 11:25:54,452 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可见成功。
+2020-03-19 11:25:54,452 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:25:54.431766，开始时间：2020-03-19 11:25:54.452781，总计时长：0:00:00.021015
+2020-03-19 11:25:54,474 - my_web_test - [basepage.py--&gt;line:47] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可点击成功。
+2020-03-19 11:25:54,474 - my_web_test - [basepage.py--&gt;line:49] - INFO: 起始时间：2020-03-19 11:25:54.453281，开始时间：2020-03-19 11:25:54.474796，总计时长：0:00:00.021515
+2020-03-19 11:25:54,481 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素成功。
+2020-03-19 11:25:54,548 - my_web_test - [basepage.py--&gt;line:77] - INFO: 登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素点击成功。
+2020-03-19 11:25:56,615 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素可见成功。
+2020-03-19 11:25:56,615 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:25:56.562767，开始时间：2020-03-19 11:25:56.615809，总计时长：0:00:00.053042
+2020-03-19 11:25:56,628 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素成功。
+2020-03-19 11:25:56,653 - my_web_test - [basepage.py--&gt;line:105] - INFO: 登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素中获取文本内容_请输入手机号_成功。
+</system-err></testcase><testcase classname="TestCases.test_login.TestLogin" file="TestCases\test_login.py" line="25" name="test_login_0_error[my_data1]" time="9.790"><system-err>2020-03-19 11:26:03,992 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素可见成功。
+2020-03-19 11:26:03,993 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:26:03.958004，开始时间：2020-03-19 11:26:03.993009，总计时长：0:00:00.035005
+2020-03-19 11:26:04,000 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素成功。
+2020-03-19 11:26:04,081 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素中输入内容成功。
+2020-03-19 11:26:04,108 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素可见成功。
+2020-03-19 11:26:04,108 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:26:04.081071，开始时间：2020-03-19 11:26:04.108589，总计时长：0:00:00.027518
+2020-03-19 11:26:04,115 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素成功。
+2020-03-19 11:26:04,150 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素中输入内容成功。
+2020-03-19 11:26:04,170 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可见成功。
+2020-03-19 11:26:04,170 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:26:04.150619，开始时间：2020-03-19 11:26:04.170634，总计时长：0:00:00.020015
+2020-03-19 11:26:04,191 - my_web_test - [basepage.py--&gt;line:47] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可点击成功。
+2020-03-19 11:26:04,192 - my_web_test - [basepage.py--&gt;line:49] - INFO: 起始时间：2020-03-19 11:26:04.171134，开始时间：2020-03-19 11:26:04.192150，总计时长：0:00:00.021016
+2020-03-19 11:26:04,198 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素成功。
+2020-03-19 11:26:04,291 - my_web_test - [basepage.py--&gt;line:77] - INFO: 登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素点击成功。
+2020-03-19 11:26:06,361 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素可见成功。
+2020-03-19 11:26:06,361 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:26:06.311757，开始时间：2020-03-19 11:26:06.361750，总计时长：0:00:00.049993
+2020-03-19 11:26:06,381 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素成功。
+2020-03-19 11:26:06,421 - my_web_test - [basepage.py--&gt;line:105] - INFO: 登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素中获取文本内容_请输入密码_成功。
+</system-err></testcase><testcase classname="TestCases.test_login.TestLogin" file="TestCases\test_login.py" line="25" name="test_login_0_error[my_data2]" time="9.647"><system-err>2020-03-19 11:26:13,793 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素可见成功。
+2020-03-19 11:26:13,794 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:26:13.757415，开始时间：2020-03-19 11:26:13.794440，总计时长：0:00:00.037025
+2020-03-19 11:26:13,801 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素成功。
+2020-03-19 11:26:13,834 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_用户名输入_(&apos;name&apos;, &apos;phone&apos;)元素中输入内容成功。
+2020-03-19 11:26:13,858 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素可见成功。
+2020-03-19 11:26:13,858 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:26:13.834469，开始时间：2020-03-19 11:26:13.858986，总计时长：0:00:00.024517
+2020-03-19 11:26:13,865 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素成功。
+2020-03-19 11:26:13,896 - my_web_test - [basepage.py--&gt;line:91] - INFO: 登录页面_密码输入_(&apos;name&apos;, &apos;password&apos;)元素中输入内容成功。
+2020-03-19 11:26:13,915 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可见成功。
+2020-03-19 11:26:13,915 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:26:13.897042，开始时间：2020-03-19 11:26:13.915526，总计时长：0:00:00.018484
+2020-03-19 11:26:13,937 - my_web_test - [basepage.py--&gt;line:47] - INFO: 等待登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素可点击成功。
+2020-03-19 11:26:13,937 - my_web_test - [basepage.py--&gt;line:49] - INFO: 起始时间：2020-03-19 11:26:13.915526，开始时间：2020-03-19 11:26:13.937542，总计时长：0:00:00.022016
+2020-03-19 11:26:13,944 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素成功。
+2020-03-19 11:26:13,993 - my_web_test - [basepage.py--&gt;line:77] - INFO: 登录页面输入完成_点击登录按钮_(&apos;xpath&apos;, &apos;//button[text()=&quot;登录&quot;]&apos;)元素点击成功。
+2020-03-19 11:26:16,059 - my_web_test - [basepage.py--&gt;line:32] - INFO: 等待登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素可见成功。
+2020-03-19 11:26:16,059 - my_web_test - [basepage.py--&gt;line:34] - INFO: 起始时间：2020-03-19 11:26:16.006692，开始时间：2020-03-19 11:26:16.059717，总计时长：0:00:00.053025
+2020-03-19 11:26:16,073 - my_web_test - [basepage.py--&gt;line:61] - INFO: 查找登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素成功。
+2020-03-19 11:26:16,098 - my_web_test - [basepage.py--&gt;line:105] - INFO: 登录页面_用户名或者密码输入错误后提示内容_(&apos;xpath&apos;, &apos;//div[@class=&quot;form-error-info&quot;]&apos;)元素中获取文本内容_请输入手机号_成功。
 </system-err></testcase></testsuite></testsuites>
