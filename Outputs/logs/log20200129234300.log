@@ -1,0 +1,66 @@
+2020-01-29 23:43:06,616 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_用户名输入_('name', 'account')元素可见成功。
+2020-01-29 23:43:06,632 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:06.550032，开始时间：2020-01-29 23:43:06.632235，总计时长：0:00:00.082203
+2020-01-29 23:43:06,647 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_用户名输入_('name', 'account')元素成功。
+2020-01-29 23:43:06,874 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_用户名输入_('name', 'account')元素中输入内容成功。
+2020-01-29 23:43:06,950 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_密码输入_('name', 'pass')元素可见成功。
+2020-01-29 23:43:06,950 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:06.874443，开始时间：2020-01-29 23:43:06.950447，总计时长：0:00:00.076004
+2020-01-29 23:43:06,968 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_密码输入_('name', 'pass')元素成功。
+2020-01-29 23:43:07,128 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_密码输入_('name', 'pass')元素中输入内容成功。
+2020-01-29 23:43:07,194 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可见成功。
+2020-01-29 23:43:07,195 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:07.128458，开始时间：2020-01-29 23:43:07.195461，总计时长：0:00:00.067003
+2020-01-29 23:43:07,272 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可点击成功。
+2020-01-29 23:43:07,273 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:07.195461，开始时间：2020-01-29 23:43:07.273466，总计时长：0:00:00.078005
+2020-01-29 23:43:07,294 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素成功。
+2020-01-29 23:43:09,100 - my_web_test - [basepage.py-->line:77] - INFO: 登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素点击成功。
+2020-01-29 23:43:09,154 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可见成功。
+2020-01-29 23:43:09,154 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:09.104571，开始时间：2020-01-29 23:43:09.154573，总计时长：0:00:00.050002
+2020-01-29 23:43:09,219 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可点击成功。
+2020-01-29 23:43:09,219 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:09.154573，开始时间：2020-01-29 23:43:09.219577，总计时长：0:00:00.065004
+2020-01-29 23:43:09,253 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素成功。
+2020-01-29 23:43:09,533 - my_web_test - [basepage.py-->line:77] - INFO: 登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素点击成功。
+2020-01-29 23:43:11,595 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录成功后_点击加入课程按钮_('xpath', '//div[@class="ktcon1l fr"]')元素可见成功。
+2020-01-29 23:43:11,611 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:11.544684，开始时间：2020-01-29 23:43:11.595885，总计时长：0:00:00.051201
+2020-01-29 23:43:11,671 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录成功后_点击加入课程按钮_('xpath', '//div[@class="ktcon1l fr"]')元素可点击成功。
+2020-01-29 23:43:11,671 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:11.611485，开始时间：2020-01-29 23:43:11.671687，总计时长：0:00:00.060202
+2020-01-29 23:43:11,705 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录成功后_点击加入课程按钮_('xpath', '//div[@class="ktcon1l fr"]')元素成功。
+2020-01-29 23:43:11,903 - my_web_test - [basepage.py-->line:77] - INFO: 登录成功后_点击加入课程按钮_('xpath', '//div[@class="ktcon1l fr"]')元素点击成功。
+2020-01-29 23:43:11,968 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录成功后_加课码弹出框中输入加课码_('xpath', '//div[@class="chuangjiankccon"]/input')元素可见成功。
+2020-01-29 23:43:11,968 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:11.904097，开始时间：2020-01-29 23:43:11.968101，总计时长：0:00:00.064004
+2020-01-29 23:43:11,989 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录成功后_加课码弹出框中输入加课码_('xpath', '//div[@class="chuangjiankccon"]/input')元素成功。
+2020-01-29 23:43:12,111 - my_web_test - [basepage.py-->line:91] - INFO: 登录成功后_加课码弹出框中输入加课码_('xpath', '//div[@class="chuangjiankccon"]/input')元素中输入内容成功。
+2020-01-29 23:43:14,226 - my_web_test - [basepage.py-->line:47] - INFO: 等待加课的确定按钮是否可点击_('xpath', '//a[text()="加入"]')元素可点击成功。
+2020-01-29 23:43:14,227 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:14.112171，开始时间：2020-01-29 23:43:14.227178，总计时长：0:00:00.115007
+2020-01-29 23:43:14,276 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录成功后_输入加课码后点击确定_('xpath', '//a[text()="加入"]')元素可见成功。
+2020-01-29 23:43:14,276 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:14.227178，开始时间：2020-01-29 23:43:14.276181，总计时长：0:00:00.049003
+2020-01-29 23:43:14,353 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录成功后_输入加课码后点击确定_('xpath', '//a[text()="加入"]')元素可点击成功。
+2020-01-29 23:43:14,353 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:14.277181，开始时间：2020-01-29 23:43:14.353784，总计时长：0:00:00.076603
+2020-01-29 23:43:14,369 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录成功后_输入加课码后点击确定_('xpath', '//a[text()="加入"]')元素成功。
+2020-01-29 23:43:14,598 - my_web_test - [basepage.py-->line:77] - INFO: 登录成功后_输入加课码后点击确定_('xpath', '//a[text()="加入"]')元素点击成功。
+2020-01-29 23:43:15,182 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击课程名称进入课堂_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素可见成功。
+2020-01-29 23:43:15,183 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:14.598393，开始时间：2020-01-29 23:43:15.183427，总计时长：0:00:00.585034
+2020-01-29 23:43:15,247 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击课程名称进入课堂_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素可点击成功。
+2020-01-29 23:43:15,248 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:15.183427，开始时间：2020-01-29 23:43:15.248430，总计时长：0:00:00.065003
+2020-01-29 23:43:15,266 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击课程名称进入课堂_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素成功。
+2020-01-29 23:43:15,539 - my_web_test - [basepage.py-->line:77] - INFO: 点击课程名称进入课堂_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素点击成功。
+2020-01-29 23:43:18,713 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击课程中的更多按钮_('xpath', '//div[@class="ktcon2 cl hide"]//a[@class="kdmore"]')元素可见成功。
+2020-01-29 23:43:18,713 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:18.133589，开始时间：2020-01-29 23:43:18.713622，总计时长：0:00:00.580033
+2020-01-29 23:43:18,791 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击课程中的更多按钮_('xpath', '//div[@class="ktcon2 cl hide"]//a[@class="kdmore"]')元素可点击成功。
+2020-01-29 23:43:18,791 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:18.713622，开始时间：2020-01-29 23:43:18.791625，总计时长：0:00:00.078003
+2020-01-29 23:43:18,806 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击课程中的更多按钮_('xpath', '//div[@class="ktcon2 cl hide"]//a[@class="kdmore"]')元素成功。
+2020-01-29 23:43:19,076 - my_web_test - [basepage.py-->line:77] - INFO: 点击课程中的更多按钮_('xpath', '//div[@class="ktcon2 cl hide"]//a[@class="kdmore"]')元素点击成功。
+2020-01-29 23:43:19,141 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击退课按钮退课_('xpath', '//div[@class="ktcon2 cl hide"]//li[@class="kdli3"]/a')元素可见成功。
+2020-01-29 23:43:19,142 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:19.076636，开始时间：2020-01-29 23:43:19.141640，总计时长：0:00:00.065004
+2020-01-29 23:43:19,213 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击退课按钮退课_('xpath', '//div[@class="ktcon2 cl hide"]//li[@class="kdli3"]/a')元素可点击成功。
+2020-01-29 23:43:19,214 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:19.142640，开始时间：2020-01-29 23:43:19.214644，总计时长：0:00:00.072004
+2020-01-29 23:43:19,234 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击退课按钮退课_('xpath', '//div[@class="ktcon2 cl hide"]//li[@class="kdli3"]/a')元素成功。
+2020-01-29 23:43:19,563 - my_web_test - [basepage.py-->line:77] - INFO: 点击退课按钮退课_('xpath', '//div[@class="ktcon2 cl hide"]//li[@class="kdli3"]/a')元素点击成功。
+2020-01-29 23:43:19,633 - my_web_test - [basepage.py-->line:32] - INFO: 等待退课框中输入密码_('xpath', '//input[@type="password"]')元素可见成功。
+2020-01-29 23:43:19,633 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:19.564662，开始时间：2020-01-29 23:43:19.633665，总计时长：0:00:00.069003
+2020-01-29 23:43:19,654 - my_web_test - [basepage.py-->line:61] - INFO: 查找退课框中输入密码_('xpath', '//input[@type="password"]')元素成功。
+2020-01-29 23:43:19,757 - my_web_test - [basepage.py-->line:91] - INFO: 退课框中输入密码_('xpath', '//input[@type="password"]')元素中输入内容成功。
+2020-01-29 23:43:19,821 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击退课的确定按钮_('xpath', '//div[@class="deletebot cl"]//a[text()="退课"]')元素可见成功。
+2020-01-29 23:43:19,822 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-29 23:43:19.758673，开始时间：2020-01-29 23:43:19.822676，总计时长：0:00:00.064003
+2020-01-29 23:43:19,895 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击退课的确定按钮_('xpath', '//div[@class="deletebot cl"]//a[text()="退课"]')元素可点击成功。
+2020-01-29 23:43:19,895 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-29 23:43:19.822676，开始时间：2020-01-29 23:43:19.895680，总计时长：0:00:00.073004
+2020-01-29 23:43:19,910 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击退课的确定按钮_('xpath', '//div[@class="deletebot cl"]//a[text()="退课"]')元素成功。
+2020-01-29 23:43:20,161 - my_web_test - [basepage.py-->line:77] - INFO: 点击退课的确定按钮_('xpath', '//div[@class="deletebot cl"]//a[text()="退课"]')元素点击成功。

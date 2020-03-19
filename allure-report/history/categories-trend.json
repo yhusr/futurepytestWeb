@@ -1,6 +1,0 @@
-[ {
-  "buildOrder" : 3,
-  "reportUrl" : "http://localhost:8080/job/webitem/3/allure",
-  "reportName" : "AllureReport",
-  "data" : { }
-} ]

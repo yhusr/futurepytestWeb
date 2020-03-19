@@ -1,0 +1,69 @@
+2020-01-30 17:55:57,344 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_用户名输入_('name', 'account')元素可见成功。
+2020-01-30 17:55:57,345 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:55:57.259838，开始时间：2020-01-30 17:55:57.345843，总计时长：0:00:00.086005
+2020-01-30 17:55:57,364 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_用户名输入_('name', 'account')元素成功。
+2020-01-30 17:55:57,554 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_用户名输入_('name', 'account')元素中输入内容成功。
+2020-01-30 17:55:57,628 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_密码输入_('name', 'pass')元素可见成功。
+2020-01-30 17:55:57,629 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:55:57.555855，开始时间：2020-01-30 17:55:57.628860，总计时长：0:00:00.073005
+2020-01-30 17:55:57,648 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_密码输入_('name', 'pass')元素成功。
+2020-01-30 17:55:57,828 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_密码输入_('name', 'pass')元素中输入内容成功。
+2020-01-30 17:55:57,906 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可见成功。
+2020-01-30 17:55:57,906 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:55:57.829871，开始时间：2020-01-30 17:55:57.906875，总计时长：0:00:00.077004
+2020-01-30 17:55:57,987 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可点击成功。
+2020-01-30 17:55:57,988 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:55:57.907876，开始时间：2020-01-30 17:55:57.988880，总计时长：0:00:00.081004
+2020-01-30 17:55:58,012 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素成功。
+2020-01-30 17:56:00,127 - my_web_test - [basepage.py-->line:77] - INFO: 登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素点击成功。
+2020-01-30 17:56:02,195 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可见成功。
+2020-01-30 17:56:02,195 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:56:02.128117，开始时间：2020-01-30 17:56:02.195121，总计时长：0:00:00.067004
+2020-01-30 17:56:02,266 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可点击成功。
+2020-01-30 17:56:02,266 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:56:02.196121，开始时间：2020-01-30 17:56:02.266125，总计时长：0:00:00.070004
+2020-01-30 17:56:02,288 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素成功。
+2020-01-30 17:56:02,746 - my_web_test - [basepage.py-->line:77] - INFO: 登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素点击成功。
+2020-01-30 17:56:04,815 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击作业名称，进入作业界面_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素可见成功。
+2020-01-30 17:56:04,816 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:56:04.751267，开始时间：2020-01-30 17:56:04.816271，总计时长：0:00:00.065004
+2020-01-30 17:56:04,885 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击作业名称，进入作业界面_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素可点击成功。
+2020-01-30 17:56:04,886 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:56:04.816271，开始时间：2020-01-30 17:56:04.886275，总计时长：0:00:00.070004
+2020-01-30 17:56:04,907 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击作业名称，进入作业界面_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素成功。
+2020-01-30 17:56:05,228 - my_web_test - [basepage.py-->line:77] - INFO: 点击作业名称，进入作业界面_('xpath', '//div[@class="ktcon2 cl hide"]//strong//a')元素点击成功。
+2020-01-30 17:56:06,519 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击作业模块，进入作业模块界面_('xpath', '//div[@id="third-nav"]//a[contains(@href,"homework")]')元素可见成功。
+2020-01-30 17:56:06,520 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:56:05.229294，开始时间：2020-01-30 17:56:06.520368，总计时长：0:00:01.291074
+2020-01-30 17:56:06,626 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击作业模块，进入作业模块界面_('xpath', '//div[@id="third-nav"]//a[contains(@href,"homework")]')元素可点击成功。
+2020-01-30 17:56:06,626 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:56:06.520368，开始时间：2020-01-30 17:56:06.626374，总计时长：0:00:00.106006
+2020-01-30 17:56:06,645 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击作业模块，进入作业模块界面_('xpath', '//div[@id="third-nav"]//a[contains(@href,"homework")]')元素成功。
+2020-01-30 17:56:07,879 - my_web_test - [basepage.py-->line:77] - INFO: 点击作业模块，进入作业模块界面_('xpath', '//div[@id="third-nav"]//a[contains(@href,"homework")]')元素点击成功。
+2020-01-30 17:56:08,475 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击作业名称进入作业提交界面_('xpath', '//h3[@class="work-title "]//a')元素可见成功。
+2020-01-30 17:56:08,476 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:56:07.880446，开始时间：2020-01-30 17:56:08.476480，总计时长：0:00:00.596034
+2020-01-30 17:56:08,558 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击作业名称进入作业提交界面_('xpath', '//h3[@class="work-title "]//a')元素可点击成功。
+2020-01-30 17:56:08,559 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:56:08.476480，开始时间：2020-01-30 17:56:08.559485，总计时长：0:00:00.083005
+2020-01-30 17:56:08,651 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击作业名称进入作业提交界面_('xpath', '//h3[@class="work-title "]//a')元素成功。
+2020-01-30 17:56:09,638 - my_web_test - [basepage.py-->line:77] - INFO: 点击作业名称进入作业提交界面_('xpath', '//h3[@class="work-title "]//a')元素点击成功。
+2020-01-30 17:56:10,232 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击更新提交按钮_('xpath', '//a[@class="new-tj1"]')元素可见成功。
+2020-01-30 17:56:10,232 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:56:09.638547，开始时间：2020-01-30 17:56:10.232580，总计时长：0:00:00.594033
+2020-01-30 17:56:10,304 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击更新提交按钮_('xpath', '//a[@class="new-tj1"]')元素可点击成功。
+2020-01-30 17:56:10,305 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:56:10.232580，开始时间：2020-01-30 17:56:10.304585，总计时长：0:00:00.072005
+2020-01-30 17:56:10,324 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击更新提交按钮_('xpath', '//a[@class="new-tj1"]')元素成功。
+2020-01-30 17:56:10,704 - my_web_test - [basepage.py-->line:77] - INFO: 点击更新提交按钮_('xpath', '//a[@class="new-tj1"]')元素点击成功。
+2020-01-30 17:56:12,770 - my_web_test - [basepage.py-->line:32] - INFO: 等待确定更新按钮_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素可见成功。
+2020-01-30 17:56:12,770 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:56:12.705722，开始时间：2020-01-30 17:56:12.770726，总计时长：0:00:00.065004
+2020-01-30 17:56:12,841 - my_web_test - [basepage.py-->line:47] - INFO: 等待确定更新按钮_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素可点击成功。
+2020-01-30 17:56:12,842 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:56:12.771726，开始时间：2020-01-30 17:56:12.842730，总计时长：0:00:00.071004
+2020-01-30 17:56:12,863 - my_web_test - [basepage.py-->line:61] - INFO: 查找确定更新按钮_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素成功。
+2020-01-30 17:56:13,120 - my_web_test - [basepage.py-->line:77] - INFO: 确定更新按钮_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素点击成功。
+2020-01-30 17:56:15,182 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击上传文件按钮_('xpath', '//div[@class="shangchuan"]//input')元素可见成功。
+2020-01-30 17:56:15,183 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:56:15.122058，开始时间：2020-01-30 17:56:15.182062，总计时长：0:00:00.060004
+2020-01-30 17:56:15,203 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击上传文件按钮_('xpath', '//div[@class="shangchuan"]//input')元素成功。
+2020-01-30 17:56:15,283 - my_web_test - [basepage.py-->line:91] - INFO: 点击上传文件按钮_('xpath', '//div[@class="shangchuan"]//input')元素中输入内容成功。
+2020-01-30 17:56:17,343 - my_web_test - [basepage.py-->line:32] - INFO: 等待上传作业后更新提交_('xpath', '//a[@class="new-tj2 active"]')元素可见成功。
+2020-01-30 17:56:17,343 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 17:56:17.284182，开始时间：2020-01-30 17:56:17.343185，总计时长：0:00:00.059003
+2020-01-30 17:56:17,411 - my_web_test - [basepage.py-->line:47] - INFO: 等待上传作业后更新提交_('xpath', '//a[@class="new-tj2 active"]')元素可点击成功。
+2020-01-30 17:56:17,412 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 17:56:17.344186，开始时间：2020-01-30 17:56:17.412189，总计时长：0:00:00.068003
+2020-01-30 17:56:17,431 - my_web_test - [basepage.py-->line:61] - INFO: 查找上传作业后更新提交_('xpath', '//a[@class="new-tj2 active"]')元素成功。
+2020-01-30 17:56:17,713 - my_web_test - [basepage.py-->line:77] - INFO: 上传作业后更新提交_('xpath', '//a[@class="new-tj2 active"]')元素点击成功。
+2020-01-30 17:56:47,922 - my_web_test - [basepage.py-->line:27] - ERROR: 等待更新提交后确定_('xpath', '//div[@class="btns"]//a[@class="sure active"]')元素失败
+Traceback (most recent call last):
+  File "F:\python\ketangpaiweb\CommonHandle\basepage.py", line 25, in ele_wait
+    ww(self.driver, timeout, poll_frequency=frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\softWare\python\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-01-30 17:56:48,575 - my_web_test - [basepage.py-->line:163] - INFO: 图片更新提交后确定_20200130175647.png存放成功

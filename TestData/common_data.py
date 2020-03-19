@@ -5,12 +5,12 @@ import os
 
 
 class WebCommon:
-    base_url = 'http://120.78.128.25:8765/Index'
+    base_url = 'https://www.ketangpai.com/'
     # 登录页面
-    login_url = base_url + '/login.html'
+    login_url = base_url + 'User/login.html'
     # 登录成功页面
-    index_url = base_url + '/index'
+    index_url = base_url + 'Main/index.html'
     # 用户名
-    username = '18684720553'
+    username = '18612132018'
     # 密码
     password = 'python'

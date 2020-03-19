@@ -1,0 +1,38 @@
+2020-01-30 20:37:33,052 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_用户名输入_('name', 'account')元素可见成功。
+2020-01-30 20:37:33,052 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 20:37:32.969665，开始时间：2020-01-30 20:37:33.052670，总计时长：0:00:00.083005
+2020-01-30 20:37:33,068 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_用户名输入_('name', 'account')元素成功。
+2020-01-30 20:37:33,255 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_用户名输入_('name', 'account')元素中输入内容成功。
+2020-01-30 20:37:33,320 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面_密码输入_('name', 'pass')元素可见成功。
+2020-01-30 20:37:33,321 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 20:37:33.255681，开始时间：2020-01-30 20:37:33.321685，总计时长：0:00:00.066004
+2020-01-30 20:37:33,338 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面_密码输入_('name', 'pass')元素成功。
+2020-01-30 20:37:33,485 - my_web_test - [basepage.py-->line:91] - INFO: 登录页面_密码输入_('name', 'pass')元素中输入内容成功。
+2020-01-30 20:37:33,542 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可见成功。
+2020-01-30 20:37:33,542 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 20:37:33.485695，开始时间：2020-01-30 20:37:33.542698，总计时长：0:00:00.057003
+2020-01-30 20:37:33,625 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可点击成功。
+2020-01-30 20:37:33,626 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 20:37:33.543698，开始时间：2020-01-30 20:37:33.625703，总计时长：0:00:00.082005
+2020-01-30 20:37:33,651 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素成功。
+2020-01-30 20:37:35,818 - my_web_test - [basepage.py-->line:77] - INFO: 登录页面输入完成_点击登录按钮_('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素点击成功。
+2020-01-30 20:37:37,894 - my_web_test - [basepage.py-->line:32] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可见成功。
+2020-01-30 20:37:37,895 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 20:37:37.819942，开始时间：2020-01-30 20:37:37.894947，总计时长：0:00:00.075005
+2020-01-30 20:37:37,980 - my_web_test - [basepage.py-->line:47] - INFO: 等待登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素可点击成功。
+2020-01-30 20:37:37,981 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 20:37:37.895947，开始时间：2020-01-30 20:37:37.981952，总计时长：0:00:00.086005
+2020-01-30 20:37:37,998 - my_web_test - [basepage.py-->line:61] - INFO: 查找登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素成功。
+2020-01-30 20:37:38,303 - my_web_test - [basepage.py-->line:77] - INFO: 登录成功后_点击页面信息提示框中的关闭按钮_('xpath', '//a[@class="close"]')元素点击成功。
+2020-01-30 20:37:38,384 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击私信进入私信页面_('xpath', '//div[@class="privateLetter"]//a')元素可见成功。
+2020-01-30 20:37:38,384 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 20:37:38.322971，开始时间：2020-01-30 20:37:38.384975，总计时长：0:00:00.062004
+2020-01-30 20:37:38,459 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击私信进入私信页面_('xpath', '//div[@class="privateLetter"]//a')元素可点击成功。
+2020-01-30 20:37:38,460 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 20:37:38.384975，开始时间：2020-01-30 20:37:38.460979，总计时长：0:00:00.076004
+2020-01-30 20:37:38,478 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击私信进入私信页面_('xpath', '//div[@class="privateLetter"]//a')元素成功。
+2020-01-30 20:37:38,778 - my_web_test - [basepage.py-->line:77] - INFO: 点击私信进入私信页面_('xpath', '//div[@class="privateLetter"]//a')元素点击成功。
+2020-01-30 20:37:40,790 - my_web_test - [basepage.py-->line:133] - ERROR: 在查看所有的handles页面中获取当前所有句柄成功
+NoneType: None
+2020-01-30 20:37:40,796 - my_web_test - [basepage.py-->line:133] - ERROR: 在切换handle至私信界面页面中获取当前所有句柄成功
+NoneType: None
+2020-01-30 20:37:40,807 - my_web_test - [basepage.py-->line:147] - ERROR: 在切换handle至私信界面页面中切换到最新的handle成功
+NoneType: None
+2020-01-30 20:37:41,888 - my_web_test - [basepage.py-->line:32] - INFO: 等待点击输入框_('xpath', '//textarea[@class="ps-container"]')元素可见成功。
+2020-01-30 20:37:41,888 - my_web_test - [basepage.py-->line:34] - INFO: 起始时间：2020-01-30 20:37:40.808911，开始时间：2020-01-30 20:37:41.888973，总计时长：0:00:01.080062
+2020-01-30 20:37:41,960 - my_web_test - [basepage.py-->line:47] - INFO: 等待点击输入框_('xpath', '//textarea[@class="ps-container"]')元素可点击成功。
+2020-01-30 20:37:41,960 - my_web_test - [basepage.py-->line:49] - INFO: 起始时间：2020-01-30 20:37:41.888973，开始时间：2020-01-30 20:37:41.960977，总计时长：0:00:00.072004
+2020-01-30 20:37:41,980 - my_web_test - [basepage.py-->line:61] - INFO: 查找点击输入框_('xpath', '//textarea[@class="ps-container"]')元素成功。
+2020-01-30 20:37:42,197 - my_web_test - [basepage.py-->line:77] - INFO: 点击输入框_('xpath', '//textarea[@class="ps-container"]')元素点击成功。
