@@ -9,7 +9,7 @@ from CommonHandle.basepage import BasePage as BP
 # 登录页面的元素操作
 class LoginPageTest:
 
-    def __init__(self, driver: WebDriver):
+    def __init__(self, driver: WebDriver(command_executor='http://192.168.31.8:4444/wd/hub')):
         self.driver = driver
 
     # 页面操作方法
