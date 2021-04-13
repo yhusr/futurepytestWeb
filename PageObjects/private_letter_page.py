@@ -8,7 +8,7 @@ from PageLocaltors.private_letter_page_loc import PrivateLetter as loc
 
 
 class PrivateLetter:
-    def __init__(self, driver:WebDriver):
+    def __init__(self, driver:WebDriver(command_executor='http://192.168.31.8:4444/wd/hub')):
         self.driver = driver
 
     # 点击私信按钮进入私信页面输入并发送
