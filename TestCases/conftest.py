@@ -19,21 +19,21 @@ def set_up():
     driver.quit()
 
 
-# @pytest.fixture()
-# def my_setup(set_up):
-#     LoginPageTest(set_up).my_login(WM.username, WM.password)
-#     bp = CR(set_up)
-#     yield set_up, bp
-#     set_up.quit()
+@pytest.fixture()
+def my_setup(set_up):
+    LoginPageTest(set_up).my_login(WM.username, WM.password)
+    bp = CR(set_up)
+    yield set_up, bp
+    set_up.quit()
 
 
-# @pytest.fixture()
-# def letter():
-#     driver = webdriver.Chrome()
-#     driver.get(WM.login_url)
-#     driver.maximize_window()
-#     LoginPageTest(driver).my_login(WM.username, WM.password)
-#     time.sleep(2)
-#     CR(driver).info_ele_click()
-#     yield driver
-#     driver.quit()
+@pytest.fixture()
+def letter():
+    driver = webdriver.Chrome()
+    driver.get(WM.login_url)
+    driver.maximize_window()
+    LoginPageTest(driver).my_login(WM.username, WM.password)
+    time.sleep(2)
+    CR(driver).info_ele_click()
+    yield driver
+    driver.quit()
