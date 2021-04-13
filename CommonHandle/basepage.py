@@ -15,7 +15,7 @@ from CommonHandle.handle_log import logger
 
 class BasePage:
 
-    def __init__(self, driver:WebDriver):
+    def __init__(self, driver:WebDriver(command_executor='http://192.168.31.8:4444/wd/hub')):
         self.driver = driver
 
     # 等待元素可见
