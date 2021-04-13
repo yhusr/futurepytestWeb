@@ -10,7 +10,7 @@ from TestData.classroom_case_data import ClassRoomCase as RC
 
 
 class ClassRoomPage:
-    def __init__(self, driver:WebDriver):
+    def __init__(self, driver:WebDriver(command_executor='http://192.168.31.8:4444/wd/hub')):
         self.driver = driver
 
     @staticmethod
